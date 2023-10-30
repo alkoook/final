@@ -1,0 +1,95 @@
+
+/* style login */
+.log{
+    margin: auto;
+    margin-top: 10%;
+    max-width: 32%;
+    border: 4px rgba(0, 0, 0, 0.10) solid;
+    border-radius: 50px 0;
+    position: relative;
+}
+/* login text  */
+.txt_login{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 8px;
+    font-family: sans-serif;
+}
+body{
+    /* font-family: sans-serif; */
+    font-family: 'Readex Pro', sans-serif;
+    /* background-color: rgb(228, 228, 228); */
+}
+/* div page */
+.nav_c
+{
+    width: 100%;
+    height: 100%;
+}
+/* style sidebar */
+.c1
+{
+    right: 0;
+    position: fixed;
+    width: 20%;
+    height: 100%;
+    background-color:  #0f0f0f;
+    text-align: right;
+    padding: 20px;
+
+}
+/* text sidebar */
+.c1 a{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+.c1 a:hover{
+    color: rgb(228, 13, 13);
+}
+/* show page */
+.c2{
+    padding-right: 20%;
+}
+*{
+   margin: 0;
+   padding: 0;
+
+}
+.hr{
+    background-color: rgb(70, 70 , 70);
+}
+/* img sidebar */
+.c1 .img_nav{
+    width: 100px;
+    height: 90px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+/* text color nav bar */
+.my_nav a{
+    color: black;
+}
+/* ditails dashbord */
+.details{
+    width: 100%;
+    margin-bottom: 20px;
+    border: rgba(0, 0, 0, 0.082) solid 1px;
+    padding:1px 80px;
+    margin-top: 20px;
+    padding-bottom: 7px;
+    color: wheat;
+    text-decoration: none;
+
+}
+/* text coloe page dashbord */
+.color_dash{
+    color: whitesmoke;
+}
+
+
+
